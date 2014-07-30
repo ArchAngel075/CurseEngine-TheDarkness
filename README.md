@@ -8,7 +8,7 @@ TheDarkness is a multiplayer game about fearing the dark and befriending the lig
 Players are trapped in a dungeon-like sctructure riddled with rooms.
 Within, trapped with the players are an assortment of paranormal beings that thrive in the darkness, and whom seek to consume the light of the players.
 Thus- players must work together to unlock doors and find the exit to the dark trap all while avoiding the dark.
-=======================
+----------------------
 
 Gameplay :
 =======================
@@ -26,7 +26,7 @@ Doors are opened in various ways :
 =Generators : These are a special case method, when doors are well locked down then the only method is to either blast them open or power the door via a nearby powersource. When a generator is repaired and jumpstarted it will power nearby rooms - all light sources and doors are easily usable...Except Generators dont have alot of juice to begin with and unless players actually manage what consumes its power the darkness will creep up quickly...
 =And Other : there are more methods of opening doors to be added to the plans of TheDarkness, some with-held intentionally.
 
-=======================
+-----------------------
 
 About TheDarkness (unnecessary info)
 =======================

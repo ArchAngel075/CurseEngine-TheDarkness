@@ -11,8 +11,11 @@ Thus- players must work together to unlock doors and find the exit to the dark t
 
 Gameplay :
 ----------
-Darkness-mechanic, a lighting based mechanic that drives the entire games :
+Darkness mechanic, a lighting based mechanic that drives the entire games :
 Using lighting and shadows to create a dark atmosphere and allow for some unique enemies and gameplay, TheDarkness has players use light-sources and each other as eyes and barriers against enemies- Yet enemies also feed on the light, they are attracted to it and often strive to destroy any light and thus the players safety aswell.
+
+Sanity mechanic, what defines endgame : [Credits to Dylan for the initial idea and followup]
+Players have a Sanity level, this represented as a percentage defines how much gear they can use and how close they are to beating the server. Sanity can be spent on tools to assist in crossing into another level, yet once a Sanity of 100% is reached then the player escapes. Though, spending what sanity one has left to aquire tools to defeat a level simply means that one is accepting reality of the nightmarish fantasy one is trapped in.
 
 Charge mechanic, pushing players into decisions one after the other :
 The Charge mechanic gives players a "charge" or battery, this will be depleted through various ways and when depleted can leave a player trapped in a dark corridor surrounded by enemies and no notion of where anything is.

@@ -23,9 +23,13 @@ The Charge mechanic gives players a "charge" or battery, this will be depleted t
 LockedRoom mechanic, a simple dungeon like mechanic :
 Every room in TheDarkness can deny entry via its doors, players would need to use methods to open these doors to gain entry and use the room. By opening new rooms players can find supplies and parts needed to repair or gain access to new rooms elsewhere- Yet sometimes a room is a jail to enemies, opening it gives the enemy a route to players thus making the act of opening all doors a dangerous one.
 Doors are opened in various ways :
+
 =MicroExplosives : small-but loud-explosives that serve as a very quick opening method, yet these attract all sorts of trouble. They also serve as the only known way to kill VoidAngels...
+
 =CrowBars : slightly common but troublesome method as it firstly takes more that one player to use and can take a good deal of time to use, leaving players exposed and unable to fightback. They can also be swung like good old Gordan...
+
 =Generators : These are a special case method, when doors are well locked down then the only method is to either blast them open or power the door via a nearby powersource. When a generator is repaired and jumpstarted it will power nearby rooms - all light sources and doors are easily usable...Except Generators dont have alot of juice to begin with and unless players actually manage what consumes its power the darkness will creep up quickly...
+
 =And Other : there are more methods of opening doors to be added to the plans of TheDarkness, some with-held intentionally.
 
 About TheDarkness (unnecessary info)
